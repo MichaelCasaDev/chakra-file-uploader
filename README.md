@@ -17,4 +17,4 @@ Copy and paste in in our project and run it!
 
 ## License
 
-[MIT License](https://github.com/MichaelDevC/notion-to-nextjs/blob/main/LICENSE)
+[MIT License](https://github.com/MichaelCasaDev/chakra-file-uploader/blob/main/LICENSE)
