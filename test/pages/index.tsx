@@ -1,4 +1,4 @@
-import { Center, Link, Stack, Text } from "@chakra-ui/react";
+import { Center, Link, Text } from "@chakra-ui/react";
 import FileUploader from "../components/FileUploader";
 
 export default function Page() {
