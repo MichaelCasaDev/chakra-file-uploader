@@ -347,8 +347,10 @@ export default function FileUploader({
             ? "PDF files"
             : fileType == "other"
             ? "Any type of file"
-            : ""}{" "}
-          up to {formatFileSize(maxSize)}
+            : ""}{" "}  
+          {maxSize != -1
+            ? "up to " + formatFileSize(maxSize)
+            : "up to unlimited GBs"}
         </Text>
       </Stack>
     </Stack>
