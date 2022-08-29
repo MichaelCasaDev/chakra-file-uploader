@@ -6,7 +6,7 @@ A simple file uploader component made with ChakraUI
 ## Component
 This component it's only require ChakraUI to works!
 
-Copy and paste in in our project and run it!
+Copy and paste in your project and run it!
 
 <br />
 
